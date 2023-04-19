@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1SM3o31/wLM2B6N0rZqp/LDzOmduXMy+0rcg73mCBgEIDm88Jhl1I0k7SSm+kcVKPaAL5yC2iSXxzLoeNrVJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stefa\\Downloads\\JungleAdventure\\JungleAdventure\\JungleAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\monogame.ui.forms\\1.0.1\\monogame.ui.forms.1.0.1.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"MonoGame.UI.Forms 1.0.1\" wurde nicht mit dem Projektzielframework \"net6.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
+      "libraryId": "MonoGame.UI.Forms",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
